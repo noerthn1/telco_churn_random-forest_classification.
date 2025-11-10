@@ -69,6 +69,9 @@ This dataset contains information about a telecommunication company’s customer
 
 ✅ Improved ROC-AUC and recall show the tuned model identifies more churners effectively.
 
+## Visualization
+![Confusion Matrix](img/cm.png)
+
 ### Insights & Recommendations
 - Short-term contract users are most likely to churn — promote longer-term plans.
 - High monthly charges correlate with churn — offer targeted discounts or bundles.
