@@ -68,3 +68,14 @@ This dataset contains information about a telecommunication company’s customer
 | F1-score (Churn)  | **0.59** |
 
 ✅ Improved ROC-AUC and recall show the tuned model identifies more churners effectively.
+
+### Insights & Recommendations
+- Short-term contract users are most likely to churn — promote longer-term plans.
+- High monthly charges correlate with churn — offer targeted discounts or bundles.
+- Low tenure customers may need onboarding or loyalty incentives.
+
+### Tech Used
+- Python
+- Pandas, NumPy, Matplotlib, Seaborn
+- Scikit-learn (Pipelines, RandomForest, RandomizedSearchCV)
+- Jupyter Notebook
