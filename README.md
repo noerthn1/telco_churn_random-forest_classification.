@@ -48,7 +48,7 @@ This dataset contains information about a telecommunication company’s customer
   * `n_estimators`, `max_depth`, `min_samples_split`, `max_features`
 
 ## Model Performance
---
+---
 
 | Metric            | Value |
 | :---------------- | :---- |
@@ -58,7 +58,7 @@ This dataset contains information about a telecommunication company’s customer
 | Recall (Churn)    | 0.47  |
 | F1-score (Churn)  | 0.54  |
 
---
+---
 | Metric            | Value    |
 | :---------------- | :------- |
 | Accuracy          | **0.81** |
